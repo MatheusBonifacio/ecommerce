@@ -1,1 +1,3 @@
-# ecommerce
+# Projeto em andamento...
+
+Construção de modelo de um site de E-commerce, utilizando HTML, CSS e JavaScript;
