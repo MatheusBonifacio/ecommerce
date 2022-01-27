@@ -1,3 +1,8 @@
 # Projeto em andamento...
 
-Construção de modelo de um site de E-commerce, utilizando HTML, CSS e JavaScript;
+Construção de modelo de E-commerce.
+
+### Utilizando:
+- HTML;
+- CSS e
+-  JavaScript;
